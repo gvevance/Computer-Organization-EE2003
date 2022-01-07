@@ -1,0 +1,14 @@
+dmem.v
+imem.v
+reg_file.v
+alu.v
+cpu.v
+cpu_tb.v
+mux4input.v
+pc_plus4.v
+branch_controller_ALU.v
+control.v
+mux.v
+check_misalign.v
+
+
