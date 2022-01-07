@@ -1,0 +1,10 @@
+dmem.v
+imem.v
+control.v
+cpu.v
+cpu_tb.v
+mux.v
+check_misalign.v
+pc.v
+reg_file.v
+alu.v
